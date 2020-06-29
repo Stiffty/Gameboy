@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Gameboy:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Gameboy_jar</output-path>
+    <root id="archive" name="Gameboy.jar">
+      <element id="module-output" name="Gameboy" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fazecast/jSerialComm/2.6.1/jSerialComm-2.6.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="com.fazecast:jSerialComm:[2.0.0,3.0.0)" type="repository">
+    <properties maven-id="com.fazecast:jSerialComm:[2.0.0,3.0.0)" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fazecast/jSerialComm/2.6.1/jSerialComm-2.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fazecast/jSerialComm/2.6.1/jSerialComm-2.6.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fazecast/jSerialComm/2.6.1/jSerialComm-2.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
